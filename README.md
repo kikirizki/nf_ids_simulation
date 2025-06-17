@@ -1,4 +1,4 @@
-Ini adalah simulasi sederhana, IDS (intrusion detection system) untuk mendeteksi serangan DDoS
+Ini adalah simulasi sederhana IDS (intrusion detection system) untuk mendeteksi serangan DDoS
 
 Untuk menjalankan server ketik
 ```bash
