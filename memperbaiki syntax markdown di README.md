@@ -7,4 +7,4 @@ python3 server.py
 ```bash
 python3 ddos.py 
 ```
-kemudian ketik ```normal`` dan enter jika ingin mensimulasikan traffic normal atau ketik ```ddos``` dan enter untuk mensimulasikan serangan DDoS
+kemudian ketik ```normal``` dan enter jika ingin mensimulasikan traffic normal atau ketik ```ddos``` dan enter untuk mensimulasikan serangan DDoS
